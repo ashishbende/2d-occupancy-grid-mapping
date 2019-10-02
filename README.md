@@ -19,5 +19,5 @@ Now, let the program generate the map!
 
 ### Generated Map
 
-![alt text](Images/Map.png)
+![alt text](Images/output_map.png)
 
